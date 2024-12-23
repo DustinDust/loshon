@@ -1,0 +1,14 @@
+{
+  "folders": [
+    { "path": ".", "name": "root" },
+    {
+      "path": "./loshon-api",
+      "name": "api"
+    },
+    {
+      "path": "./loshon-web",
+      "name": "web"
+    }
+  ],
+  "settings": {}
+}

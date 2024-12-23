@@ -1,0 +1,21 @@
+name: "loshon"
+services:
+  api:
+    build:
+      context: ./loshon-api
+    ports:
+     - 8080:8080
+    networks:
+     - loshon
+
+  web:
+    build: 
+      context: ./loshon-web
+    ports:
+     - 3000:3000
+    networks:
+     - loshon
+
+networks:
+  loshon:
+   driver: bridge
