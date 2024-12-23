@@ -1,6 +1,6 @@
 [submodule "loshon-web"]
 	path = loshon-web
-	url = git@github.com:DustinDust/lo-shon.git
+	url = git@github.com:DustinDust/loshon-web.git
 [submodule "loshon-api"]
 	path = loshon-api
 	url = git@github.com:DustinDust/loshon-go.git
