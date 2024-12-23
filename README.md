@@ -97,7 +97,7 @@ make
 ### TODO LIST
 
 - [ ] Add test
-- [ ] Dockerize
+- [x] Dockerize
 - [ ] Move infra to AWS
 
 For individual features to-do list/issues, visit each repos' issues tabs
